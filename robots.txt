@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tranquil-hamster-1a578e.netlify.app/sitemap.xml
